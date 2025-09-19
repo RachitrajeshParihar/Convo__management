@@ -59,7 +59,7 @@ Running Locally
 - Open notebook.ipynb and run cells.
 ## Files
 
-- `notebook.ipynb` :	Main Google Colab notebook with full implementation.
+- `convo_management_groq.ipynb` :	Main Google Colab notebook with full implementation.
 - `.env.example` :	Example environment file (rename to .env and add your Groq API key).
 - `requirements.txt` : 	Python dependencies required to run the notebook.
 - `.gitignore` :	Ensures sensitive files like .env are not committed.
